@@ -4,3 +4,6 @@ Enter `npm start` in the command line, and open [http://localhost:3000](http://l
 
 ## How to build a production package
 Enter `npm run build`
+
+## Testing
+Run `npm test` to execute the unit tests.
